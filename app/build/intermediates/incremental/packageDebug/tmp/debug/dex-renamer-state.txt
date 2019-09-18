@@ -1,0 +1,4 @@
+#Tue Sep 17 01:59:11 EDT 2019
+base.0=/Users/tahirnas/AndroidStudioProjects/YoutubePlayer/app/build/intermediates/dex/debug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
